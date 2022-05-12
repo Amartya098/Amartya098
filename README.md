@@ -1,4 +1,4 @@
-### Hi there, I'm Henlo_hi 👋
+### Hi there, I'm Amartya 👋
 
 ## I'm a Security Researcher!
 
