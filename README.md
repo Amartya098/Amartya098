@@ -1,34 +1,35 @@
 <div align="center">
 
-# `[ HTTP/2 200 OK — TARGET COMPROMISED ]`
+<!-- Glitchy terminal banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:00ff66&height=180&section=header&text=BYLEANGOD&fontColor=00FF66&fontSize=60&animation=twinkling&fontAlignY=40&desc=Web%20Security%20Researcher%20%7C%7C%20Bug%20Bounty%20Hunter&descAlignY=62&descSize=18&descColor=39FF14" width="100%"/>
 
-<!-- Dynamic Typing SVG Header -->
-<a href="https://github.com/Amartya098">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF66&center=true&vCenter=true&random=false&width=620&lines=root%40web-ops%3A~%23+curl+-I+target.com;Amartya+%7C%7C+Web+Security+Researcher;Bug+Bounty+Hunter+%E2%80%A2+Recon+Architect;Chaining+bugs+%E2%80%A2+Breaking+business+logic." alt="Typing SVG" />
+<!-- Terminal-style typing header -->
+<a href="https://amartya.tech">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&random=false&width=650&lines=root%40amartya%3A~%23+whoami;%3E+Amartya+%2F%2F+ByLeanGod;%3E+Breaking+auth%2C+chaining+bugs%2C+writing+PoCs;%3E+status%3A+HUNTING..." alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Profile Views (original counter preserved) -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Byleangod" alt="Profile views" />
-  <img src="https://img.shields.io/badge/FOCUS-WEB_SECURITY_RESEARCH-red?style=flat-square&logo=target" alt="Focus" />
-  <img src="https://img.shields.io/badge/COMMS-PROTON_ENCRYPTED-blueviolet?style=flat-square&logo=protonmail&logoColor=white" alt="Comms" />
-  <img src="https://img.shields.io/badge/STATUS-HUNTING_VULNS-brightgreen?style=flat-square&logo=hackthebox" alt="Status" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=Byleangod&style=for-the-badge&color=00ff66&label=UPLINK+VIEWS" alt="Profile views"/>
+<img src="https://img.shields.io/badge/FOCUS-WEB_SECURITY_RESEARCH-black?style=for-the-badge&logo=target&logoColor=00ff66&labelColor=0f0f0f&color=111"/>
+<img src="https://img.shields.io/badge/STATUS-HUNTING_VULNS-black?style=for-the-badge&logo=hackthebox&logoColor=39ff14&labelColor=0f0f0f&color=111"/>
+<img src="https://img.shields.io/badge/COMMS-PROTON_ENCRYPTED-black?style=for-the-badge&logo=protonmail&logoColor=39ff14&labelColor=0f0f0f&color=111"/>
 
 </div>
 
----
+<br/>
 
-### `byleangod@kali:~$ cat /etc/security/profile.json`
+```ansi
+[38;5;46m┌──(root㉿amartya)-[~]
+└─$ cat /etc/security/profile.json[0m
+```
 
 ```json
 {
-  "operator": "Amartya",
-  "handle": "ByLeanGod",
-  "role": "Web Security Researcher & Bug Hunter",
-  "site": "amartya.tech",
+  "operator"         : "Amartya",
+  "handle"           : "ByLeanGod",
+  "role"             : "Web Security Researcher & Bug Bounty Hunter",
+  "site"             : "amartya.tech",
   "core_competencies": [
     "Web Application & API Penetration Testing",
     "Deep Reconnaissance & Attack Surface Mapping",
@@ -39,101 +40,131 @@
 }
 ```
 
----
+<br/>
 
-### 🎯 Research Vectors & Vulnerability Scope
+<div align="center">
 
-<table>
+### `[ RESEARCH VECTORS ]`
+
+</div>
+
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>🌐 Web Application Security</h4>
-      <ul>
-        <li><b>Access Control & IDOR:</b> Horizontal/Vertical privilege escalation</li>
-        <li><b>Server-Side Flaws:</b> SSRF, Remote Code Execution (RCE), SSTI, SQLi</li>
-        <li><b>Request Smuggling:</b> HTTP/1.1 & HTTP/2 desync attacks, cache poisoning</li>
-        <li><b>Client-Side Attacks:</b> DOM-based XSS, CSRF, WebSockets, PostMessage exploitation</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🔍 Recon & Attack Surface Mapping</h4>
-      <ul>
-        <li><b>Domain Enumeration:</b> Passive & active subdomain discovery, DNS brute-forcing</li>
-        <li><b>JS Analysis:</b> Endpoint extraction, hidden route discovery, secrets hunting</li>
-        <li><b>Parameter Mining:</b> Hidden parameter fuzzing & reflected input tracing</li>
-        <li><b>Content Discovery:</b> Deep directory busting, vhost fuzzing, archive scraping</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🔑 Auth, API & Business Logic</h4>
-      <ul>
-        <li><b>API Security:</b> REST, GraphQL, and microservice authorization flaws</li>
-        <li><b>OAuth & SSO:</b> State tampering, redirect URI leaks, token interception</li>
-        <li><b>Race Conditions:</b> Concurrency testing, limit bypasses, double-spend logic</li>
-        <li><b>Payment & Workflow:</b> Logic manipulation, price tampering, step-skipping</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🚩 CTF & Vulnerability Labs</h4>
-      <ul>
-        <li><b>PortSwigger Web Academy:</b> Advanced web security practitioner</li>
-        <li><b>HackTheBox & TryHackMe:</b> Web challenge solving & machine exploitation</li>
-        <li><b>Competitive CTFs:</b> Google CTF, PicoCTF, and live web CTF tracks</li>
-        <li><b>PoC Engineering:</b> Writing reproducible exploit scripts & reports</li>
-      </ul>
-    </td>
-  </tr>
+
+**`[ 0x01 ]` Web Application Security**
+- `Access Control` → IDOR, horizontal/vertical privesc
+- `Server-Side` → SSRF, RCE, SSTI, SQLi
+- `Request Smuggling` → HTTP/1.1 & H2 desync, cache poisoning
+- `Client-Side` → DOM XSS, CSRF, WebSockets, postMessage abuse
+
+</td>
+<td width="50%" valign="top">
+
+**`[ 0x02 ]` Recon & Attack Surface Mapping**
+- `Domain Enum` → passive/active subdomain discovery, DNS brute-force
+- `JS Analysis` → endpoint extraction, secrets hunting
+- `Param Mining` → hidden param fuzzing, reflected input tracing
+- `Content Discovery` → dir busting, vhost fuzzing, archive scraping
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**`[ 0x03 ]` Auth, API & Business Logic**
+- `API Security` → REST / GraphQL / microservice authz flaws
+- `OAuth & SSO` → state tampering, redirect URI leaks, token theft
+- `Race Conditions` → concurrency abuse, limit bypass, double-spend
+- `Payment & Workflow` → price tampering, step-skipping logic bugs
+
+</td>
+<td width="50%" valign="top">
+
+**`[ 0x04 ]` CTF & Vulnerability Labs**
+- `PortSwigger Web Academy` → Practitioner track
+- `HackTheBox / TryHackMe` → web challenges & box exploitation
+- `Competitive CTFs` → Google CTF, PicoCTF, live web tracks
+- `PoC Engineering` → reproducible exploits & disclosure reports
+
+</td>
+</tr>
 </table>
 
----
+<br/>
 
-### 🛠️ The Web Pentester's Arsenal
+<div align="center">
 
-<div align="left">
+### `[ ARSENAL ]`
 
-#### `[ PROXIES & INTERCEPTION ]`
+**PROXIES & INTERCEPTION**
 <p>
-  <img src="https://img.shields.io/badge/Burp_Suite_Pro-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Caido-1E1E1E?style=for-the-badge&logo=firefox&logoColor=FF4500" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/cURL-073545?style=for-the-badge&logo=gnu&logoColor=white" />
+<img src="https://img.shields.io/badge/Burp_Suite_Pro-000000?style=for-the-badge&logo=burpsuite&logoColor=FF6633"/>
+<img src="https://img.shields.io/badge/Caido-000000?style=for-the-badge&logo=firefox&logoColor=FF4500"/>
+<img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
+<img src="https://img.shields.io/badge/cURL-000000?style=for-the-badge&logo=gnu&logoColor=39ff14"/>
 </p>
 
-#### `[ RECON, MAPPING & FUZZING ]`
+**RECON, MAPPING & FUZZING**
 <p>
-  <img src="https://img.shields.io/badge/Nuclei-00A67E?style=for-the-badge&logo=target&logoColor=white" />
-  <img src="https://img.shields.io/badge/ffuf-D82C20?style=for-the-badge&logo=firefox&logoColor=white" />
-  <img src="https://img.shields.io/badge/ProjectDiscovery-000000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-002B36?style=for-the-badge&logo=target&logoColor=white" />
-  <img src="https://img.shields.io/badge/SecLists-111111?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLmap-CC0000?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/Nuclei-000000?style=for-the-badge&logo=target&logoColor=00A67E"/>
+<img src="https://img.shields.io/badge/ffuf-000000?style=for-the-badge&logo=firefox&logoColor=D82C20"/>
+<img src="https://img.shields.io/badge/ProjectDiscovery-000000?style=for-the-badge&logo=github&logoColor=39ff14"/>
+<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=target&logoColor=39ff14"/>
+<img src="https://img.shields.io/badge/SecLists-000000?style=for-the-badge&logo=git&logoColor=39ff14"/>
+<img src="https://img.shields.io/badge/SQLmap-000000?style=for-the-badge&logo=sqlite&logoColor=CC0000"/>
 </p>
 
-#### `[ AUTOMATION & SCRIPTING ]`
+**AUTOMATION & SCRIPTING**
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash_Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=4EAA25"/>
+<img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=00ADD8"/>
+<img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kali-linux&logoColor=557C94"/>
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED"/>
 </p>
 
 </div>
 
----
+<br/>
 
-### 📡 Secure Uplink & Comms
+<div align="center">
+
+### `[ GITHUB TELEMETRY ]`
+
+<img src="https://github-readme-stats.vercel.app/api?username=Byleangod&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39ff14&icon_color=39ff14&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Byleangod&theme=github-dark-blue&hide_border=true&background=0d1117&ring=39ff14&fire=39ff14&currStreakLabel=39ff14" height="165"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Byleangod&theme=react-dark&bg_color=0d1117&color=39ff14&line=39ff14&point=ffffff&hide_border=true" width="97%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### `[ SECURE UPLINK ]`
+
+</div>
 
 ```text
-  [+] Direct Mail: Amartya2015@protonmail.com
-  [+] Handle: @ByLeanGod
-  [+] Web: https://amartya.tech
-  [+] Focus: Bug Bounty, Web Security Assessments & Responsible Disclosure
+  [+] Direct Mail   :  Amartya2015@protonmail.com
+  [+] Handle        :  @ByLeanGod
+  [+] Web           :  https://amartya.tech
+  [+] Focus         :  Bug Bounty, Web Security Assessments & Responsible Disclosure
 ```
 
 <div align="center">
-  <a href="mailto:Amartya2015@protonmail.com">
-    <img src="https://img.shields.io/badge/ENCRYPTED_SIGNAL-TRANSMIT_PAYLOAD-00FF66?style=for-the-badge&logo=protonmail&logoColor=black" alt="Contact Amartya" />
-  </a>
+
+<a href="mailto:Amartya2015@protonmail.com">
+  <img src="https://img.shields.io/badge/TRANSMIT_ENCRYPTED_PAYLOAD-000000?style=for-the-badge&logo=protonmail&logoColor=39ff14"/>
+</a>
+<a href="https://amartya.tech">
+  <img src="https://img.shields.io/badge/VISIT_AMARTYA.TECH-000000?style=for-the-badge&logo=firefox&logoColor=39ff14"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff66,100:0f0f0f&height=100&section=footer"/>
+
 </div>
