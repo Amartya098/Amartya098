@@ -1,129 +1,152 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=ByLeanGod&fontSize=90&fontColor=39FF14&fontAlignY=45&desc=web%20exploitation%20%2F%2F%20recon%20%2F%2F%20chained%20primitives&descAlignY=68&descSize=17&descColor=8ED081&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:1a0000&height=4&width=100%25"/>
 
-</div>
+<br>
 
-```
-   ██████╗ ██╗   ██╗██╗     ███████╗ █████╗ ███╗   ██╗
-   ██╔══██╗╚██╗ ██╔╝██║     ██╔════╝██╔══██╗████╗  ██║
-   ██████╔╝ ╚████╔╝ ██║     █████╗  ███████║██╔██╗ ██║
-   ██╔══██╗  ╚██╔╝  ██║     ██╔══╝  ██╔══██║██║╚██╗██║
-   ██████╔╝   ██║   ███████╗███████╗██║  ██║██║ ╚████║
-   ╚═════╝    ╚═╝   ╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝
-             ▓▓▓  G  O  D  ▓▓▓   —  operator: Amartya
-```
+<img src="https://img.shields.io/badge/-CLASSIFIED-c00?style=for-the-badge&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/-CASE%20FILE%20%E2%84%96%2098%20-c00?style=for-the-badge&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/-EYES%20ONLY-c00?style=for-the-badge&labelColor=0a0a0a"/>
+<img src="https://komarev.com/ghpvc/?username=Byleangod&style=for-the-badge&color=c00000&label=DOSSIER+VIEWS"/>
 
-<div align="center">
+# ▓▓▓ SUBJECT DOSSIER ▓▓▓
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=700&color=39FF14&center=true&vCenter=true&width=700&lines=%5B*%5D+Recon+%E2%86%92+enumerate+attack+surface...;%5B*%5D+Found+3+forgotten+subdomains.+staging+exposed.;%5B*%5D+Auth+bypass+on+%2Fapi%2Fv1%2Fadmin+%E2%80%94+IDOR+confirmed.;%5B*%5D+Chaining+SSRF+%E2%86%92+internal+metadata+%E2%86%92+RCE.;%5B%2B%5D+Shell+obtained.+writing+disclosure+report...;%5B%2B%5D+Severity%3A+CRITICAL.+Bounty%3A+paid." alt="boot sequence"/>
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=20&duration=3500&pause=1000&color=E0E0E0&center=true&vCenter=true&width=650&lines=DESIGNATION%3A+AMARTYA+%2F%2F+%22BYLEANGOD%22;CLEARANCE%3A+WEB+SECURITY+RESEARCH;OCCUPATION%3A+BUG+BOUNTY+HUNTER;STATUS%3A+ACTIVE+%E2%80%94+LOCATION+REDACTED" alt="dossier header"/>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Byleangod&style=flat-square&color=39FF14&label=SESSIONS"/>
-<img src="https://img.shields.io/badge/uptime-hunting_vulns-39FF14?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/comms-proton_encrypted-39FF14?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/site-amartya.tech-39FF14?style=flat-square&labelColor=0d1117"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0000,100:0a0a0a&height=4&width=100%25"/>
 
 </div>
 
 <br>
 
-## ```$ nmap -sV operator.identity```
+<table width="100%">
+<tr>
+<td width="30%" valign="top">
 
+### `▓ SUBJECT PHOTO`
 ```
-PORT      STATE   SERVICE          VERSION
-443/tcp   open    web-security     Amartya — Researcher & Bug Bounty Hunter
-8080/tcp  open    recon-engine     attack surface mapping, subdomain sweep
-9000/tcp  open    logic-exploit    access control / business logic abuse
-1337/tcp  open    automation       offensive tooling & scripted PoCs
+ ┌───────────────┐
+ │ ░░░░░░░░░░░░░ │
+ │ ░░ REDACTED ░░ │
+ │ ░░░░░░░░░░░░░ │
+ │ ░░░░░░░░░░░░░ │
+ └───────────────┘
 ```
+**Alias:** ByLeanGod
+**Site:** amartya.tech
 
-<br>
+</td>
+<td width="70%" valign="top">
 
-## ```$ ls -la ./research_vectors/```
+### `▓ FIELD REPORT`
+> Operative specializes in penetrating web applications and APIs
+> under authorized engagement. Known for locating overlooked
+> attack surface, defeating access-control assumptions, and
+> chaining low-severity findings into critical-impact disclosures.
+> Reports filed clean. No unauthorized targets on record.
 
-<table>
+**Primary directive:** uncover high-impact web vulnerabilities, chain primitives, fortify infrastructure.
+
+</td>
+</tr>
+</table>
+
+---
+
+### `▓ KNOWN OPERATING METHODS`
+
+<table width="100%">
 <tr><td width="50%" valign="top">
 
-**`drwx------ webapp/`**
-> Access control & IDOR — horizontal/vertical privesc
-> Server-side: SSRF, RCE, SSTI, SQLi
-> Smuggling: HTTP/1.1 & H2 desync, cache poisoning
-> Client-side: DOM XSS, CSRF, WS/postMessage abuse
+**[ FILE 01 — WEB APPLICATION ]**
+| vector | detail |
+|---|---|
+| Access Control | IDOR, horiz/vert privesc |
+| Server-Side | SSRF, RCE, SSTI, SQLi |
+| Smuggling | HTTP/1.1 & H2 desync, cache poison |
+| Client-Side | DOM XSS, CSRF, WS/postMessage |
 
 </td><td width="50%" valign="top">
 
-**`drwx------ recon/`**
-> Passive/active subdomain discovery, DNS brute-force
-> JS analysis — endpoint extraction, secrets hunting
-> Hidden parameter mining & reflected-input tracing
-> Dir busting, vhost fuzzing, archive scraping
+**[ FILE 02 — RECON & MAPPING ]**
+| vector | detail |
+|---|---|
+| Domain Enum | passive/active, DNS brute-force |
+| JS Analysis | endpoint & secrets extraction |
+| Param Mining | hidden param fuzzing |
+| Content Disc. | dir busting, vhost fuzz, archives |
 
 </td></tr>
 <tr><td width="50%" valign="top">
 
-**`drwx------ auth_and_logic/`**
-> REST/GraphQL/microservice authz flaws
-> OAuth & SSO — state tampering, redirect leaks, token theft
-> Race conditions — concurrency abuse, double-spend
-> Payment/workflow logic — price tampering, step-skipping
+**[ FILE 03 — AUTH & BUSINESS LOGIC ]**
+| vector | detail |
+|---|---|
+| API Security | REST/GraphQL/microservice authz |
+| OAuth & SSO | state tamper, redirect leaks |
+| Race Conditions | concurrency abuse, double-spend |
+| Payment Logic | price tamper, step-skipping |
 
 </td><td width="50%" valign="top">
 
-**`drwx------ labs/`**
-> PortSwigger Web Academy — Practitioner
-> HackTheBox / TryHackMe — web + box exploitation
-> Google CTF, PicoCTF, live web tracks
-> PoC engineering & responsible disclosure writeups
+**[ FILE 04 — TRAINING RECORD ]**
+| vector | detail |
+|---|---|
+| PortSwigger | Web Academy Practitioner |
+| HTB / THM | web challenges, box exploitation |
+| CTFs | Google CTF, PicoCTF, live web tracks |
+| PoC Work | reproducible exploits, writeups |
 
 </td></tr>
 </table>
 
-<br>
+---
 
-## ```$ cat /proc/arsenal```
-
-| interception | recon & fuzzing | scripting |
-|:---|:---|:---|
-| Burp Suite Pro | Nuclei | Python |
-| Caido | ffuf | Go |
-| Postman | ProjectDiscovery | Bash |
-| cURL | Nmap · SecLists · SQLmap | Kali · Docker |
-
-<br>
+### `▓ EQUIPMENT MANIFEST`
 
 <div align="center">
 
-## ```$ git log --stats --author=Amartya```
-
-<img src="https://github-readme-stats.vercel.app/api?username=Byleangod&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=8ED081" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Byleangod&theme=dark&hide_border=true&background=0d1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" height="165"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Byleangod&bg_color=0d1117&color=39FF14&line=39FF14&point=ffffff&hide_border=true&area=true" width="97%"/>
+| interception | recon / fuzzing | automation |
+|:---:|:---:|:---:|
+| ![Burp](https://img.shields.io/badge/Burp_Suite_Pro-1a1a1a?style=flat-square&logoColor=c00) | ![Nuclei](https://img.shields.io/badge/Nuclei-1a1a1a?style=flat-square&logoColor=c00) | ![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logoColor=c00) |
+| ![Caido](https://img.shields.io/badge/Caido-1a1a1a?style=flat-square&logoColor=c00) | ![ffuf](https://img.shields.io/badge/ffuf-1a1a1a?style=flat-square&logoColor=c00) | ![Go](https://img.shields.io/badge/Go-1a1a1a?style=flat-square&logoColor=c00) |
+| ![Postman](https://img.shields.io/badge/Postman-1a1a1a?style=flat-square&logoColor=c00) | ![Nmap](https://img.shields.io/badge/Nmap-1a1a1a?style=flat-square&logoColor=c00) | ![Bash](https://img.shields.io/badge/Bash-1a1a1a?style=flat-square&logoColor=c00) |
+| ![cURL](https://img.shields.io/badge/cURL-1a1a1a?style=flat-square&logoColor=c00) | ![SQLmap](https://img.shields.io/badge/SQLmap_·_SecLists-1a1a1a?style=flat-square&logoColor=c00) | ![Docker](https://img.shields.io/badge/Kali_·_Docker-1a1a1a?style=flat-square&logoColor=c00) |
 
 </div>
 
-<br>
+---
 
-## ```$ nc -lvnp uplink```
+### `▓ SURVEILLANCE LOG (ACTIVITY)`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Byleangod&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=c00000&icon_color=c00000&text_color=cfcfcf" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Byleangod&theme=dark&hide_border=true&background=0a0a0a&ring=c00000&fire=c00000&currStreakLabel=c00000" height="165"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Byleangod&bg_color=0a0a0a&color=c00000&line=c00000&point=ffffff&hide_border=true" width="97%"/>
+
+</div>
+
+---
+
+### `▓ CONTACT PROTOCOL`
 
 ```
-  mail   →  Amartya2015@protonmail.com   [PGP available on request]
-  handle →  @ByLeanGod
-  web    →  https://amartya.tech
-  scope  →  bug bounty · web assessments · responsible disclosure only
+  channel  : Amartya2015@protonmail.com   [encrypted / PGP on request]
+  handle   : @ByLeanGod
+  site     : https://amartya.tech
+  scope    : authorized bug bounty & web assessments only
 ```
 
 <div align="center">
 
-<a href="mailto:Amartya2015@protonmail.com"><img src="https://img.shields.io/badge/open_encrypted_channel-39FF14?style=for-the-badge&logo=protonmail&logoColor=0d1117&labelColor=0d1117"/></a>
-<a href="https://amartya.tech"><img src="https://img.shields.io/badge/amartya.tech-39FF14?style=for-the-badge&logo=firefox&logoColor=0d1117&labelColor=0d1117"/></a>
+<a href="mailto:Amartya2015@protonmail.com"><img src="https://img.shields.io/badge/OPEN%20SECURE%20CHANNEL-c00000?style=for-the-badge&labelColor=0a0a0a"/></a>
+<a href="https://amartya.tech"><img src="https://img.shields.io/badge/VIEW%20FULL%20DOSSIER-c00000?style=for-the-badge&labelColor=0a0a0a"/></a>
 
 <br><br>
-<sub>authorized targets only — this profile is a portfolio, not an offer of unsolicited testing.</sub>
-<br><br>
+<sub>▓▓▓ END OF FILE — UNAUTHORIZED REPRODUCTION PROHIBITED ▓▓▓</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0000,100:0a0a0a&height=4&width=100%25"/>
 
 </div>
