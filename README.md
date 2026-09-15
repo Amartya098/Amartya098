@@ -9,11 +9,13 @@
 
 <br/>
 
-<!-- Status and Views Badges -->
-[![Profile Views](https://komarev.com/ghpvc/?username=Byleangod&color=00ff66&style=flat-square&label=TARGETS+SCOPED)](https://github.com/Amartya098)
-[![Field](https://img.shields.io/badge/FOCUS-WEB_SECURITY_RESEARCH-red?style=flat-square&logo=target)](https://github.com/Amartya098)
-[![Encrypted Comms](https://img.shields.io/badge/COMMS-PROTON_ENCRYPTED-blueviolet?style=flat-square&logo=protonmail&logoColor=white)](mailto:Amartya2015@protonmail.com)
-[![Status](https://img.shields.io/badge/STATUS-HUNTING_VULNS-brightgreen?style=flat-square&logo=hackthebox)](https://github.com/Amartya098)
+<!-- Profile Views (original counter preserved) -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Byleangod" alt="Profile views" />
+  <img src="https://img.shields.io/badge/FOCUS-WEB_SECURITY_RESEARCH-red?style=flat-square&logo=target" alt="Focus" />
+  <img src="https://img.shields.io/badge/COMMS-PROTON_ENCRYPTED-blueviolet?style=flat-square&logo=protonmail&logoColor=white" alt="Comms" />
+  <img src="https://img.shields.io/badge/STATUS-HUNTING_VULNS-brightgreen?style=flat-square&logo=hackthebox" alt="Status" />
+</p>
 
 </div>
 
@@ -117,14 +119,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-</div>
-
----
-
-### 📊 Operations & Activity
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Amartya098&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF66&fire=00FF66&currStreakLabel=00FF66" width="60%" alt="Amartya Streak" />
 </div>
 
 ---
