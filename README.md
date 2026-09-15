@@ -41,6 +41,18 @@
 
 ---
 
+<div align="center">
+
+### `[ WARGAME & ARENA TELEMETRY ]`
+
+<a href="https://tryhackme.com/p/byleangod">
+  <img src="assets/thm_badge.svg" alt="TryHackMe Profile - byleangod" width="90%" />
+</a>
+
+</div>
+
+---
+
 ### 🎯 Research Vectors & Vulnerability Scope
 
 <table>
@@ -77,10 +89,10 @@
     <td width="50%" valign="top">
       <h4>🚩 CTF & Vulnerability Labs</h4>
       <ul>
+        <li><b>TryHackMe:</b> Top 4% Worldwide · Level 9 Mage</li>
         <li><b>PortSwigger Web Academy:</b> Advanced web security practitioner</li>
-        <li><b>HackTheBox & TryHackMe:</b> Web challenge solving & machine exploitation</li>
-        <li><b>Competitive CTFs:</b> Google CTF, PicoCTF, and live web tracks</li>
-        <li><b>PoC Engineering:</b> Writing reproducible exploit scripts & reports</li>
+        <li><b>HackTheBox:</b> Web challenge solving & machine exploitation</li>
+        <li><b>Competitive CTFs:</b> Google CTF, PicoCTF, and live web CTF tracks</li>
       </ul>
     </td>
   </tr>
@@ -130,6 +142,7 @@
   [+] Handle: @ByLeanGod
   [+] Web: https://amartya.tech
   [+] LinkedIn: https://linkedin.com/in/0xamartya
+  [+] TryHackMe: https://tryhackme.com/p/byleangod
   [+] Focus: Bug Bounty, Web Security Assessments & Responsible Disclosure
 ```
 
@@ -139,5 +152,8 @@
   </a>
   <a href="https://linkedin.com/in/0xamartya">
     <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://tryhackme.com/p/byleangod">
+    <img src="https://img.shields.io/badge/TRYHACKME-PROFILE-red?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
   </a>
 </div>
