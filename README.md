@@ -1,152 +1,135 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:1a0000&height=4&width=100%25"/>
+<br>
+
+<h1 align="center" style="font-weight:300; letter-spacing:6px;">A M A R T Y A</h1>
+<p align="center"><sub>ByLeanGod — wannabe hacker.</sub></p>
 
 <br>
 
-<img src="https://img.shields.io/badge/-CLASSIFIED-c00?style=for-the-badge&labelColor=0a0a0a"/>
-<img src="https://img.shields.io/badge/-CASE%20FILE%20%E2%84%96%2098%20-c00?style=for-the-badge&labelColor=0a0a0a"/>
-<img src="https://img.shields.io/badge/-EYES%20ONLY-c00?style=for-the-badge&labelColor=0a0a0a"/>
-<img src="https://komarev.com/ghpvc/?username=Byleangod&style=for-the-badge&color=c00000&label=DOSSIER+VIEWS"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=15&duration=3200&pause=1200&color=8B949E&center=true&vCenter=true&width=560&lines=web+security+research;bug+bounty+hunting;quiet+recon%2C+loud+findings." alt="tagline"/>
 
-# ▓▓▓ SUBJECT DOSSIER ▓▓▓
+<br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=20&duration=3500&pause=1000&color=E0E0E0&center=true&vCenter=true&width=650&lines=DESIGNATION%3A+AMARTYA+%2F%2F+%22BYLEANGOD%22;CLEARANCE%3A+WEB+SECURITY+RESEARCH;OCCUPATION%3A+BUG+BOUNTY+HUNTER;STATUS%3A+ACTIVE+%E2%80%94+LOCATION+REDACTED" alt="dossier header"/>
+<img src="https://img.shields.io/badge/-INDIA-141821?style=flat-square&color=161b22&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/-amartya.tech-141821?style=flat-square&color=161b22&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/-amartya2015%40protonmail.com-141821?style=flat-square&color=161b22&labelColor=161b22"/>
+<img src="https://komarev.com/ghpvc/?username=Byleangod&style=flat-square&color=161b22&labelColor=161b22&label=views"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0000,100:0a0a0a&height=4&width=100%25"/>
+<br><br>
+
+---
 
 </div>
 
 <br>
 
-<table width="100%">
+<table width="100%" border="0">
 <tr>
-<td width="30%" valign="top">
+<td width="100%" align="center">
 
-### `▓ SUBJECT PHOTO`
-```
- ┌───────────────┐
- │ ░░░░░░░░░░░░░ │
- │ ░░ REDACTED ░░ │
- │ ░░░░░░░░░░░░░ │
- │ ░░░░░░░░░░░░░ │
- └───────────────┘
-```
-**Alias:** ByLeanGod
-**Site:** amartya.tech
+<sub>role</sub>
+### Web Security Researcher & Bug Bounty Hunter
 
-</td>
-<td width="70%" valign="top">
-
-### `▓ FIELD REPORT`
-> Operative specializes in penetrating web applications and APIs
-> under authorized engagement. Known for locating overlooked
-> attack surface, defeating access-control assumptions, and
-> chaining low-severity findings into critical-impact disclosures.
-> Reports filed clean. No unauthorized targets on record.
-
-**Primary directive:** uncover high-impact web vulnerabilities, chain primitives, fortify infrastructure.
+<sub>Uncovering high-impact web vulnerabilities, chaining primitives, and fortifying modern web infrastructure — one overlooked endpoint at a time.</sub>
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
-### `▓ KNOWN OPERATING METHODS`
+<h3 align="center"><sub>· · · what i do · · ·</sub></h3>
 
 <table width="100%">
-<tr><td width="50%" valign="top">
-
-**[ FILE 01 — WEB APPLICATION ]**
-| vector | detail |
-|---|---|
-| Access Control | IDOR, horiz/vert privesc |
-| Server-Side | SSRF, RCE, SSTI, SQLi |
-| Smuggling | HTTP/1.1 & H2 desync, cache poison |
-| Client-Side | DOM XSS, CSRF, WS/postMessage |
-
-</td><td width="50%" valign="top">
-
-**[ FILE 02 — RECON & MAPPING ]**
-| vector | detail |
-|---|---|
-| Domain Enum | passive/active, DNS brute-force |
-| JS Analysis | endpoint & secrets extraction |
-| Param Mining | hidden param fuzzing |
-| Content Disc. | dir busting, vhost fuzz, archives |
-
-</td></tr>
-<tr><td width="50%" valign="top">
-
-**[ FILE 03 — AUTH & BUSINESS LOGIC ]**
-| vector | detail |
-|---|---|
-| API Security | REST/GraphQL/microservice authz |
-| OAuth & SSO | state tamper, redirect leaks |
-| Race Conditions | concurrency abuse, double-spend |
-| Payment Logic | price tamper, step-skipping |
-
-</td><td width="50%" valign="top">
-
-**[ FILE 04 — TRAINING RECORD ]**
-| vector | detail |
-|---|---|
-| PortSwigger | Web Academy Practitioner |
-| HTB / THM | web challenges, box exploitation |
-| CTFs | Google CTF, PicoCTF, live web tracks |
-| PoC Work | reproducible exploits, writeups |
-
-</td></tr>
+<tr>
+<td width="50%" valign="top">
+<h4>Web Application Security</h4>
+<sub>
+Access Control — IDOR, horizontal/vertical privesc<br>
+Server-Side — SSRF, RCE, SSTI, SQLi<br>
+Smuggling — HTTP/1.1 & H2 desync, cache poisoning<br>
+Client-Side — DOM XSS, CSRF, WebSockets, postMessage
+</sub>
+</td>
+<td width="50%" valign="top">
+<h4>Recon & Attack Surface Mapping</h4>
+<sub>
+Domain Enum — passive/active subdomain discovery<br>
+JS Analysis — endpoint extraction, secrets hunting<br>
+Param Mining — hidden param fuzzing<br>
+Content Discovery — dir busting, vhost fuzzing, archives
+</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h4>Auth, API & Business Logic</h4>
+<sub>
+API Security — REST / GraphQL / microservice authz<br>
+OAuth & SSO — state tampering, redirect leaks<br>
+Race Conditions — concurrency abuse, double-spend<br>
+Payment & Workflow — price tampering, step-skipping
+</sub>
+</td>
+<td width="50%" valign="top">
+<h4>CTF & Vulnerability Labs</h4>
+<sub>
+PortSwigger Web Academy — Practitioner<br>
+HackTheBox / TryHackMe — web + box exploitation<br>
+Google CTF, PicoCTF, live web tracks<br>
+PoC Engineering — reproducible exploits & writeups
+</sub>
+</td>
+</tr>
 </table>
 
----
+<br>
 
-### `▓ EQUIPMENT MANIFEST`
+<h3 align="center"><sub>· · · tools · · ·</sub></h3>
 
-<div align="center">
+<p align="center">
+<img src="https://img.shields.io/badge/Burp_Suite_Pro-161b22?style=for-the-badge&logo=burpsuite&logoColor=8B949E"/>
+<img src="https://img.shields.io/badge/Caido-161b22?style=for-the-badge&logo=firefox&logoColor=8B949E"/>
+<img src="https://img.shields.io/badge/Postman-161b22?style=for-the-badge&logo=postman&logoColor=8B949E"/>
+<img src="https://img.shields.io/badge/cURL-161b22?style=for-the-badge&logo=gnu&logoColor=8B949E"/>
+<br>
+<img src="https://img.shields.io/badge/Nuclei-161b22?style=for-the-badge&logo=target&logoColor=8B949E"/>
+<img src="https://img.shields.io/badge/ffuf-161b22?style=for-the-badge&logo=firefox&logoColor=8B949E"/>
+<img src="https://img.shields.io/badge/Nmap-161b22?style=for-the-badge&logo=target&logoColor=8B949E"/>
+<img src="https://img.shields.io/badge/SQLmap-161b22?style=for-the-badge&logo=sqlite&logoColor=8B949E"/>
+<br>
+<img src="https://img.shields.io/badge/Python-161b22?style=for-the-badge&logo=python&logoColor=8B949E"/>
+<img src="https://img.shields.io/badge/Go-161b22?style=for-the-badge&logo=go&logoColor=8B949E"/>
+<img src="https://img.shields.io/badge/Bash-161b22?style=for-the-badge&logo=gnubash&logoColor=8B949E"/>
+<img src="https://img.shields.io/badge/Kali_Linux-161b22?style=for-the-badge&logo=kali-linux&logoColor=8B949E"/>
+<img src="https://img.shields.io/badge/Docker-161b22?style=for-the-badge&logo=docker&logoColor=8B949E"/>
+</p>
 
-| interception | recon / fuzzing | automation |
-|:---:|:---:|:---:|
-| ![Burp](https://img.shields.io/badge/Burp_Suite_Pro-1a1a1a?style=flat-square&logoColor=c00) | ![Nuclei](https://img.shields.io/badge/Nuclei-1a1a1a?style=flat-square&logoColor=c00) | ![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logoColor=c00) |
-| ![Caido](https://img.shields.io/badge/Caido-1a1a1a?style=flat-square&logoColor=c00) | ![ffuf](https://img.shields.io/badge/ffuf-1a1a1a?style=flat-square&logoColor=c00) | ![Go](https://img.shields.io/badge/Go-1a1a1a?style=flat-square&logoColor=c00) |
-| ![Postman](https://img.shields.io/badge/Postman-1a1a1a?style=flat-square&logoColor=c00) | ![Nmap](https://img.shields.io/badge/Nmap-1a1a1a?style=flat-square&logoColor=c00) | ![Bash](https://img.shields.io/badge/Bash-1a1a1a?style=flat-square&logoColor=c00) |
-| ![cURL](https://img.shields.io/badge/cURL-1a1a1a?style=flat-square&logoColor=c00) | ![SQLmap](https://img.shields.io/badge/SQLmap_·_SecLists-1a1a1a?style=flat-square&logoColor=c00) | ![Docker](https://img.shields.io/badge/Kali_·_Docker-1a1a1a?style=flat-square&logoColor=c00) |
+<br>
 
-</div>
+<h3 align="center"><sub>· · · activity · · ·</sub></h3>
 
----
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Byleangod&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=8B949E&icon_color=8B949E&text_color=8B949E" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Byleangod&theme=dark&hide_border=true&background=0d1117&ring=8B949E&fire=8B949E&currStreakLabel=8B949E" height="160"/>
+</p>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Byleangod&bg_color=0d1117&color=8B949E&line=8B949E&point=ffffff&hide_border=true&area=true" width="90%"/>
+</p>
 
-### `▓ SURVEILLANCE LOG (ACTIVITY)`
+<br>
 
-<div align="center">
+<h3 align="center"><sub>· · · reach me · · ·</sub></h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Byleangod&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=c00000&icon_color=c00000&text_color=cfcfcf" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Byleangod&theme=dark&hide_border=true&background=0a0a0a&ring=c00000&fire=c00000&currStreakLabel=c00000" height="165"/>
+<p align="center">
+<a href="mailto:Amartya2015@protonmail.com"><img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=protonmail&logoColor=8B949E"/></a>
+<a href="https://amartya.tech"><img src="https://img.shields.io/badge/Website-161b22?style=for-the-badge&logo=firefox&logoColor=8B949E"/></a>
+<a href="https://linkedin.com/in/0xamartya"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=8B949E"/></a>
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Byleangod&bg_color=0a0a0a&color=c00000&line=c00000&point=ffffff&hide_border=true" width="97%"/>
+<p align="center"><sub>bug bounty · web security assessments · responsible disclosure only</sub></p>
 
-</div>
-
----
-
-### `▓ CONTACT PROTOCOL`
-
-```
-  channel  : Amartya2015@protonmail.com   [encrypted / PGP on request]
-  handle   : @ByLeanGod
-  site     : https://amartya.tech
-  scope    : authorized bug bounty & web assessments only
-```
-
-<div align="center">
-
-<a href="mailto:Amartya2015@protonmail.com"><img src="https://img.shields.io/badge/OPEN%20SECURE%20CHANNEL-c00000?style=for-the-badge&labelColor=0a0a0a"/></a>
-<a href="https://amartya.tech"><img src="https://img.shields.io/badge/VIEW%20FULL%20DOSSIER-c00000?style=for-the-badge&labelColor=0a0a0a"/></a>
-
-<br><br>
-<sub>▓▓▓ END OF FILE — UNAUTHORIZED REPRODUCTION PROHIBITED ▓▓▓</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0000,100:0a0a0a&height=4&width=100%25"/>
+<br>
 
 </div>
