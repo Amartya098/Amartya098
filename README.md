@@ -53,7 +53,7 @@
 
 ---
 
-### 🎯 Research Vectors & Vulnerability Scope
+### [ RESEARCH VECTORS & VULNERABILITY SCOPE ]
 
 <table>
   <tr>
